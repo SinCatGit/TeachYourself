@@ -1,0 +1,12 @@
+.idea
+*.pyc
+local_settings.py
+.DS_Store
+/logs/
+/static/
+/media/
+node_modules
+/bin/tmp_test*.py
+/venv/
+/bin/font/
+db.sqlite3
